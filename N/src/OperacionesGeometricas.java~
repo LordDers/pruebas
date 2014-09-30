@@ -1,5 +1,5 @@
 //package OperacionesGeometricas;
-//package com.zubiri.geometria;
+package com.zubiri.geometria;
 import java.util.Scanner;
 
 import com.zubiri.geometria.Circulos;
