@@ -36,7 +36,7 @@ public class OperacionesGeometricas
 	
 			//System.out.println("\n\nEGUN ONA IZAN!!\n");
 		}
-		/*else if (figura.equals ("R") || figura.equals ("Rectangulo"))
+		else if (figura.equals ("R") || figura.equals ("Rectangulo"))
 		{
 			double alt, bs, resultadoArea, resultadoPerimetro;
 			Rectangulo operacionesR = new Rectangulo();
@@ -61,6 +61,6 @@ public class OperacionesGeometricas
 		else
 		{
 			System.out.println("\n Debes introducir C (Ciruclo) o R (Rectangulo)");
-		}*/
+		}
 	}
 }
